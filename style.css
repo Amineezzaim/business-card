@@ -1,0 +1,19 @@
+body{
+    margin:20px;
+    font-family: verdana,Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+.profile-pic{
+    width: 130px;
+}
+.main{
+    width: 500px;
+    margin:0 auto;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #c2deef;
+    color: #0C2C55;
+    border-bottom: 6px solid #296374;
+}
